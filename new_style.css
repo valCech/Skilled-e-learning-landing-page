@@ -221,6 +221,7 @@ footer {
   margin-left: 2.5em;
 }
 
+/*tablet*/
 @media(max-width: 992px) {
   
   .grid_desktop {
@@ -230,6 +231,7 @@ footer {
  
 }
 
+/*mobile*/
 @media (max-width: 768px) {
  
   body {
