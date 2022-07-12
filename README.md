@@ -88,7 +88,7 @@ Powell Kevin for Grid
 ## Author
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/valCech)
 - Twitter - [Vlastimil Slechta](@VlastimilSlech1)
 
 
