@@ -41,13 +41,15 @@ Users should be able to:
 
 ## My process
 
+First I built it with Flex for mobile version. It was then impossible to connect 2 and later even 3 section as the resolution was growing. I had to delete it all and start again but from desktop size. This time I used also a grid technique.
+
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
--desktop-first work flow
+- Desktop-first work flow
 
 
 
@@ -57,6 +59,7 @@ Users should be able to:
 I did master "know how" to use responsive images.
 
 To see how you can add code snippets, see below:
+```HTML
 <picture> 
         <source
           srcset="img/image-hero-desktop.png"
@@ -72,7 +75,7 @@ To see how you can add code snippets, see below:
           alt="ladie browsing on laptop"
         />
       </picture>
-
+```
 
 ### Continued development
 
