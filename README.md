@@ -41,7 +41,7 @@ Users should be able to:
 
 ## My process
 
-First I built it with Flex for mobile version. It was then impossible to connect 2 and later even 3 section as the resolution was growing. I had to delete it all and start again but from desktop size. This time I used also a grid technique.
+First I built it with Flex for mobile version. It was then impossible to connect 2 and later even 3 sections as the resolution was growing. I had to delete it all and start again but from desktop size. This time I used also a grid technique.
 
 ### Built with
 
